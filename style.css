@@ -27,6 +27,40 @@ p{
     text-shadow: 3px 3px 8px #2e2e2e;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+input{
+    width: 240px;
+}
+li{
+    display: inline-block;
+    margin: 5px;
+}
+button:hover{
+    border-color: #bebebe;
+}
+button{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.Buttoms{
+    margin-top: 15px;
+}
+ul{
+    padding: 0px;
+}
+.play{
+    margin: 0px 10px;
+}
+.start{
+    margin: 0px 150px 0px 0px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.end{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .top{
     padding: 8px 0px;
 }
