@@ -27,6 +27,17 @@ p{
     text-shadow: 3px 3px 8px #2e2e2e;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+img:hover{
+    box-shadow: 3px 3px 8px #2e2e2e;
+    transition: 0.3s;
+}
+img{
+    margin: 10px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
 .top{
     padding: 8px 0px;
 }
