@@ -27,7 +27,16 @@ p{
     text-shadow: 3px 3px 8px #2e2e2e;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+.singers:hover{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.singers{
+    color: #666;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+}
 .top{
     padding: 8px 0px;
 }
